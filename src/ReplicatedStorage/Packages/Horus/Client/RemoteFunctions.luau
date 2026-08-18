@@ -1,18 +1,6 @@
 --!optimize 2
 --!native
 
---[[
-
-	Horus | A Framework Module with a lot of security layers to make your life easier
-	Inspired on @CrusherFire Module Loader
-	Heavily modified by @3xp0x3d
-
-	All rights reserved © 2026, framework only available with a valid license gave by @3xp0x3d.
-
-	DO NOT DISTIBRUTE.
-
-]]
-
 local Sera = require("../_Index/Sera")
 local SessionManager = require("../SessionManager")
 
